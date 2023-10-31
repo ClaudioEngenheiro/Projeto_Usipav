@@ -1,0 +1,5 @@
+- npm install
+- npm mongosee
+
+1 cmd com: node index.js
+E o segundo com npm start com a aplicação cmd
